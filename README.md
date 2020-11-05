@@ -1,21 +1,22 @@
-# Coston Test Network
+# Cerberus/Coston Test Net
 
-Coston is a test network for Flare, a next-generation blockchain which enables smart contracts with XRP that settle on the XRP ledger.
+Cerberus/Coston Test Net is a test network for CerberusNet, a next-generation marketplace/exchange built on the Zilliqa blockchain which enable trustless birdges within the Cerberus ecosystem by allowing developers to leverage Flare's Spark Token (FXRP), XRP that settle on the XRP ledger, and Zil that settles on the Zilliqa blockchain.
 
 ## Features
 
-- A testbed for developers that want to utilize Flare with test-XRP to develop and test applications before risking actual value.
-- Systems testing of various functionality and smart contracts that will form the core trust-minimized utility of the Flare Network.
+- A testing ground for developers that want to utilize Embyr with Flare's test-FXRP and test-XRP and test-Zil to develop and test applications before risking actual value.
 
-## Get Started with XRP on Coston
+- A network designed for innovators that create applications directly accesible within the Cerberus ecosystem. 
+
+## Get Started with XRP and ZIL on Cerberus/Coston Test Net
 
 This repo can be downloaded via the commandline:
 ```
-git clone https://github.com/flare-eng/coston
+https://github.com/DaddyLegba/CerberusCoston.git
 ```
-You can navigate to the `coston` repo using:
+You can navigate to the `CerberusCoston` repo using:
 ```
-cd coston
+cd CerberusCoston
 ```
 
 Coston leverages Node.js for its faucet and also for Web3 applications such as Truffle. Install Node.js v6 or higher (Node.js v10 LTS is recommended) using a package manager [here](https://nodejs.org/en/download/package-manager/). After you have installed Node.js, you can check the version of the node binary from a command line using: `node --version`. On some platforms, the binary is named nodejs instead: `nodejs --version`.
